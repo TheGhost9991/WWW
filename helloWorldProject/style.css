@@ -1,0 +1,22 @@
+nav, footer{
+    color:blanchedalmond;
+    background-color: darkslategray;
+}
+
+.nu {
+    color:blanchedalmond;
+}
+
+.naglowek {
+    text-align:center;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.tlo1 {
+    background-color: bisque;
+}
+
+.tlo2 {
+    background-color: darkcyan;
+}
